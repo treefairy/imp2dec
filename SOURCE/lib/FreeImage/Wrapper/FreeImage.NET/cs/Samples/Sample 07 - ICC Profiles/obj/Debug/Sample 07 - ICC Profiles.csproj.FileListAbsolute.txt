@@ -1,0 +1,8 @@
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\obj\Debug\Sample 07 - ICC Profiles.csprojResolveAssemblyReference.cache
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\bin\Debug\Sample.jpg
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\bin\Debug\Sample07.exe
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\bin\Debug\Sample07.pdb
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\bin\Debug\FreeImageNET.dll
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\bin\Debug\FreeImageNET.pdb
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\obj\Debug\Sample07.exe
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Samples\Sample 07 - ICC Profiles\obj\Debug\Sample07.pdb

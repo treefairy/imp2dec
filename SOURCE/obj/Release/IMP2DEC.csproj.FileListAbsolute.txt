@@ -1,0 +1,6 @@
+C:\IMP2DEC\SOURCE\bin\Release\IMP2DEC.exe.config
+C:\IMP2DEC\SOURCE\bin\Release\IMP2DEC.exe
+C:\IMP2DEC\SOURCE\bin\Release\IMP2DEC.pdb
+C:\IMP2DEC\SOURCE\obj\Release\IMP2DEC.exe
+C:\IMP2DEC\SOURCE\obj\Release\IMP2DEC.pdb
+C:\imp2dec\SOURCE\obj\Release\IMP2DEC.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Library\bin\Debug\FreeImageNET.dll
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Library\bin\Debug\FreeImageNET.pdb
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Library\obj\Debug\FreeImageNET.dll
+C:\imp2dec\SOURCE\lib\FreeImage\Wrapper\FreeImage.NET\cs\Library\obj\Debug\FreeImageNET.pdb
